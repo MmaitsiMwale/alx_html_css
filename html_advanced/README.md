@@ -1,5 +1,5 @@
-<h><u>HTML ADVANCED: DEEP DIVE</u></h>
-<h1>Deep Dive Into Advanced html</h1>
+<h1><u>HTML ADVANCED: DEEP DIVE</u></h1>
+<h2>Deep Dive Into Advanced html</h2>
 <p>
     In this module, we dive deep into html, exploring concepts such as semantics, advanced elements, positioning of elements, attributes, and more.
 </p>
