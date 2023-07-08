@@ -1,10 +1,15 @@
 body,
 main {
     display: flex;
+    
 }
 
 body {
     flex-direction: column;
+    background-color: rgb(219, 234, 247);
+    border: 2px;
+    border-radius: 10px;
+    
 }
 
 main {
@@ -20,6 +25,7 @@ article {
 aside {
     flex: 1;
     overflow-y: auto;
+    background-color: rgb(219, 234, 247);
 }
 
 
